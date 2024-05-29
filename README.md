@@ -74,16 +74,3 @@ Gross Margin is gross profit expressed in percentage of the total(gross profit/r
 
 $ \text{Gross Margin} = \frac{\text{gross income}}{\text{total revenue}} $
 
-Example with the first row in our DB:
-
-Data given:
-
-$ \text{Unite Price} = 45.79 $
-$ \text{Quantity} = 7 $
-$ COGS = 45.79 * 7 = 320.53 $
-
-$ \text{VAT} = 5% * COGS\= 5% 320.53 = 16.0265 $
-
-$ total = VAT + COGS\= 16.0265 + 320.53 = 
-
-$ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenue}}\=\frac{16.0265}{336.5565} = 0.047619\\approx 4.7619% $
